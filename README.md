@@ -6,8 +6,9 @@ It was built for the Digital Heroes Software Development qualification task.
 
 ## Live Demo
 
-Frontend: To be added after deployment  
-Backend API: To be added after deployment
+Frontend: https://pagepulse-audit.vercel.app  
+Backend API: https://page-pulse-backend-0ntu.onrender.com  
+GitHub Repository: https://github.com/ritesh042-hub/page-pulse
 
 ## Features
 
